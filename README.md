@@ -34,4 +34,4 @@ Style the navbar to enhance its appearance and functionality. This includes adju
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and use it according to your needs. (jjk)
+This project was inspired by the teachings of https://github.com/Ade-mir. It's solely for my personal learning and doesn't involve copying or claiming their work as my own.
